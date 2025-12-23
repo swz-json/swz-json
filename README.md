@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+AI+Builder;Building+Scalable+ETL+Pipelines;Crafting+Generative+AI+Solutions;Vice-Champion+Hackathon+Top+Tech+2025+%F0%9F%A5%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+AI+Builder;Building+Scalable+ETL+Pipelines;Crafting+Generative+AI+Solutions;+Hackathon+Top+Tech+2025+%F0%9F%A5%88" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,10 +51,10 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 
 | Projet | Stack Technique | Type |
 | :--- | :--- | :--- |
-| ** DE-AI Assistant** | `LangChain` `OpenAI` `Streamlit` | **GenAI Agent** |
-| ** L'Homme Chic Paris** | `TensorFlow` `ETL` `PowerBI` | **End-to-End Pipeline** |
-| ** Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
-| ** Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
+| **DE-AI Assistant** | `LangChain` `OpenAI` `Streamlit` | **GenAI Agent** |
+| **L'Homme Chic Paris** | `TensorFlow` `ETL` `PowerBI` | **End-to-End Pipeline** |
+| **Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
+| **Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
 
 ---
 <div align="center">
