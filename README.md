@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/wassim-elmoufakkir">
     <img src="https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:elmoufakkirwassim@gmail.com">
+  <a href="mailto:wassim.elmoufakkir@edu.dsti.institute">
     <img src="https://img.shields.io/badge/Email-Me%20Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/swz-json?tab=repositories">
