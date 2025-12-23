@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 À propos de moi (The Pitch)
+###  À propos de moi (The Pitch)
 
 Je suis un ingénieur hybride comblant le fossé entre **l'infrastructure Big Data** et **l'IA Générative**. 
 Je ne me contente pas de coder, je construis des systèmes résilients qui résolvent de vrais problèmes business.
@@ -33,7 +33,7 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 
 ---
 
-### 🛠️ Mon Arsenal Technique
+###  Mon Arsenal Technique
 
 <div align="center">
 
@@ -47,18 +47,18 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 
 ---
 
-### ⚡ Projets Phares
+###  Projets Phares
 
 | Projet | Stack Technique | Type |
 | :--- | :--- | :--- |
-| **🤖 DE-AI Assistant** | `LangChain` `OpenAI` `Streamlit` | **GenAI Agent** |
-| **🛍️ L'Homme Chic Paris** | `TensorFlow` `ETL` `PowerBI` | **End-to-End Pipeline** |
-| **⏱️ Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
-| **🥈 Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
+| ** DE-AI Assistant** | `LangChain` `OpenAI` `Streamlit` | **GenAI Agent** |
+| ** L'Homme Chic Paris** | `TensorFlow` `ETL` `PowerBI` | **End-to-End Pipeline** |
+| ** Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
+| ** Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
 
 ---
 <div align="center">
-  <h3>📈 Mes Statistiques</h3>
+  <h3> Mes Statistiques</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=swz-json&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats Globales" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swz-json&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Langages" />
