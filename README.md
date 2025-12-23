@@ -57,8 +57,11 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 | **🥈 Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swz-json&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swz-json&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+  <h3>📈 Mes Statistiques</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=swz-json&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Stats Globales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swz-json&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Langages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swz-json&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
 </div>
