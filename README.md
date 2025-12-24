@@ -22,7 +22,7 @@
 
 ---
 
-###  À propos de moi (The Pitch)
+###  À propos de moi 
 
 Je suis un ingénieur hybride comblant le fossé entre **l'infrastructure Big Data** et **l'IA Générative**. 
 Je ne me contente pas de coder, je construis des systèmes résilients qui résolvent de vrais problèmes business.
