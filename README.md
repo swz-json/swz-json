@@ -56,3 +56,4 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 | **Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
 | **Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
 
+---
