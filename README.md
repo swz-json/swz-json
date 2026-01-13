@@ -47,8 +47,9 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 
 ---
 
-###  Projets Phares
-
+###  Projets récents 
+<div align="center">
+  
 | Projet | Stack Technique | Type |
 | :--- | :--- | :--- |
 | **DE-AI Assistant** | `LangChain` `OpenAI` `Streamlit` | **GenAI Agent** |
@@ -56,12 +57,16 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 | **Realtime Analytics** | `Kafka` `Spark Streaming` `Docker` | **Big Data Architecture** |
 | **Hackathon AMDA** | `Python` `Dash` `Open Data` | **Award Winning (2nd Place)** |
 
+</div>
+
 ---
-
-
 
 <p align="center">
 <a href="https://gist.github.com/ishandutta2007"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;"> 
+
+
+
+
