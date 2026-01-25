@@ -30,6 +30,7 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 *  **Track Record :** Vice-Champion du Hackathon *Top Tech 2025* (Solution IA & Open Data en 24h) & Certifié Academic Training par l'Université de Cincinnati (Ohio, USA) pour le développement d'un prototype Data.
 *  **Actuellement :** Je développe des agents autonomes pour l'automatisation SQL.
 *  **Disponibilité :** Recherche active de stage ou alternant / opportunité (Début 2026).
+*  **Datacamp Certified Professional :** : Associate Data Engineer, AI Engineer for Data Scientists Associate, Associate Data Analyst
 
 ---
 
