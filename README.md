@@ -6,7 +6,6 @@
   <br>
   <b>Wassim Elmoufakkir</b> &bull; Data Engineering & AI M.Sc Student @ DSTI
   <br>
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Internship_/Stage_-success?style=for-the-badge" />
   <br><br>
   
   <a href="https://www.linkedin.com/in/wassim-elmoufakkir">
