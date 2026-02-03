@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+AI+Builder;Building+Scalable+ETL+Pipelines;Crafting+Generative+AI+Solutions;+Hackathon+Top+Tech+2025+%F0%9F%A5%88" alt="Typing SVG" />
 </div>
 
+
 <div align="center">
   <br>
   <b>Wassim Elmoufakkir</b> &bull; Data Engineering & AI M.Sc Student @ DSTI
