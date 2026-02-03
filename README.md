@@ -62,6 +62,11 @@ Je ne me contente pas de coder, je construis des systèmes résilients qui réso
 </div>
 
 ---
+ **Popular philosophy posts**:
+  - *"You’re a data engineer, you don’t ‘use Spark and Kafka’ … focus on business outcomes"*
+  - *"Data engineering isn’t just Spark … stop boiling roles down to one technology"*
+
+---
 
 <p align="center">
 <a href="https://gist.github.com/ishandutta2007"></a>
